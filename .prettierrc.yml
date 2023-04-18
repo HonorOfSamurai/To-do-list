@@ -1,0 +1,11 @@
+# Set the default
+editor.formatOnSave: true
+editor.codeActionsOnSave:
+  # For TSLint
+source.fixAll.tslint: true
+prettier.singleQuote: true
+trailingComma: all
+tabWidth: 2
+semi: true
+singleQuote: true
+printWidth: 80
